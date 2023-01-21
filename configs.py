@@ -4,14 +4,14 @@ import os
 
 
 class Config(object):
-	API_ID = 1923471
-	API_HASH = "fcdc178451cd234e63faefd38895c991"
-	BOT_TOKEN = "5594755883:AAF8cSNiYKLc659A-a6aqWFCM2fayFPtkD8"
-	BOT_USERNAME = "asumoviesharebot"
-	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001188070894"))
-	BOT_OWNER = int(os.environ.get("BOT_OWNER", "880087645"))
-	DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Erichdaniken:Erichdaniken@cluster0.vhu3d.mongodb.net/?retryWrites=true&w=majority")
-	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "AsuranMoviefinder")
+	API_ID = 8754146
+	API_HASH = "8b56a6989f6d04f6f4fe78133ade02fd"
+	BOT_TOKEN = "5808576953:AAFRc1Yx3VTz0x0I68ZzMDD_4puKLu13ubI"
+	BOT_USERNAME = "Ultra_File_Store_Bot"
+	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001509431270"))
+	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5669934860"))
+	DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://SkMedia:Tharunraj1828@cluster0.vbdxs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "Rapid_Bots")
 	LOG_CHANNEL = -1001692224324
 	BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "1234567890").split())
 	FORWARD_AS_COPY = bool(os.environ.get("FORWARD_AS_COPY", True))
