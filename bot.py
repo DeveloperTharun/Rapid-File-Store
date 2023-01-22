@@ -76,7 +76,7 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/+ghhqnHoLzRkwYTFl")
+                        InlineKeyboardButton("BotsList Channel", url="https://t.me/Rapid_Bots")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -356,7 +356,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/+ghhqnHoLzRkwYTFl")
+                        InlineKeyboardButton("BotsList Channel", url="https://t.me/Rapid_Bots")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -414,7 +414,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/+ghhqnHoLzRkwYTFl")
+                        InlineKeyboardButton("BotsList Channel", url="https://t.me/Rapid_Bots")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
