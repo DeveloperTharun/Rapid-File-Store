@@ -55,8 +55,8 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             f"Just Click the link to get your files!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/+ghhqnHoLzRkwYTFl"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/Sk_Media_Official")]]
+                 [InlineKeyboardButton("Bots Channel", url="https://t.me/Rapid_Bots"),
+                  InlineKeyboardButton("Support Group", url="https://t.me/Sk_Network")]]
             ),
             disable_web_page_preview=True
         )
@@ -94,8 +94,8 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             "Just Click the link to get your file!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/+ghhqnHoLzRkwYTFl"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/Sk_Media_Official")]]
+                 [InlineKeyboardButton("Bots Channel", url="https://t.me/Rapid_Bots"),
+                  InlineKeyboardButton("Support Group", url="https://t.me/Sk_Network")]]
             ),
             disable_web_page_preview=True
         )
