@@ -76,15 +76,12 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/Rapid_Bots")
-                    ],
-                    [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
                         InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("MainChannel", url="https://t.me/Sk_Network"),
+                        InlineKeyboardButton("Movies Channel", url="https://telegram.me/Sk_Network"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Rapid_Bots")
                     ]
                 ]
