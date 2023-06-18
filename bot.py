@@ -353,16 +353,13 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/Rapid_Bots")
-                    ],
-                    [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
                         InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Main Channel", url="https://t.me/Sk_Network"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Sk_Media_Official")
+                        InlineKeyboardButton("Movies Channel", url="https://telegram.me/Sk_Network"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/Rapid_Bots")
                     ]
                 ]
             )
@@ -411,16 +408,13 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/Rapid_Bots")
-                    ],
-                    [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
                         InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Main Channel", url="https://t.me/Sk_Network"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Sk_Media_Official")
+                        InlineKeyboardButton("Movies Channel", url="https://telegram.me/Sk_Network"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/Rapid_Bots")
                     ]
                 ]
             )
