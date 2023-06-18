@@ -61,5 +61,5 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ❌ ᴘᴏʀɴᴏɢʀᴀᴘʜʏ ᴄᴏɴᴛᴇɴᴛs ᴀʀᴇ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ & ɢᴇᴛ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.
 
-👀 ʙᴏᴛ ᴛᴜᴛᴏʀɪᴀʟ: [ㅤ🅲🅻🅸🅲🅺 🅷🅴🆁🅴](https://youtu.be/7iG_4iBWBGs)**
+👀 ʙᴏᴛ ᴛᴜᴛᴏʀɪᴀʟ: [CLICK HERE](https://youtu.be/7iG_4iBWBGs)**
 """
