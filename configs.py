@@ -24,7 +24,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ. ɪ ᴄᴀɴ ᴡᴏʀᴋ
 
 ╭────[ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ]────⍟
 ├⍟ ʙᴏᴛ ɴᴀᴍᴇ : [ғɪʟᴇ sᴛᴏʀᴇ](https://telegram.me/{BOT_USERNAME})
-├⍟ ᴏᴡɴᴇʀ : [Ͳʜ͢͢͢ᴇㅤ〆ㅤTʜᴀʀᴜɴ°](https://telegram.me/SKxTharun)
+├⍟ ᴏᴡɴᴇʀ : [sᴋㅤ〆ㅤTʜᴀʀᴜɴ°](https://telegram.me/SKxTharun)
 ├⍟ ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ 3](https://www.python.org)
 ├⍟ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ʀᴀᴘɪᴅ ʙᴏᴛs](https://telegram.me/Rapid_Bots)
 ├⍟ ᴍᴏᴠɪᴇꜱ : [ᴛᴀᴍɪʟsᴋ ᴍᴏᴠɪᴇᴢ](https://telegram.me/TamilSk_Moviez)
