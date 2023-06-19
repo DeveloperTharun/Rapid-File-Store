@@ -51,8 +51,8 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
         )
         share_link = f"https://telegram.me/{Config.BOT_USERNAME}?start=Sk-Network_{str_to_b64(str(SaveMessage.id))}"
         await editable.edit(
-            f"**Batch Files Stored in my Database!**\n\nHere is the Permanent Link of your files: <code>{share_link}</code> \n\n"
-            f"Just Click the link to get your files!",
+            f"**Batch Files Stored in my Database!**\n\n**Here is the Permanent Link of your files:** <code>{share_link}</code> \n\n"
+            f"**Just Click the link And Copy your file Link!**",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)]]
             ),
@@ -88,12 +88,10 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
         share_link = f"https://telegram.me/{Config.BOT_USERNAME}?start=Sk-Network_{str_to_b64(file_er_id)}"
         await editable.edit(
             "**Your File Stored in my Database!**\n\n"
-            f"Here is the Permanent Link of your file: <code>{share_link}</code> \n\n"
-            "Just Click the link to get your file!",
+            f"**Here is the Permanent Link of your file:** <code>{share_link}</code> \n\n"
+            "**Just Click the link And Copy your file Link!**",
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/Rapid_Bots"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/Sk_Network")]]
+                [[InlineKeyboardButton("Open Link", url=share_link)]]
             ),
             disable_web_page_preview=True
         )
