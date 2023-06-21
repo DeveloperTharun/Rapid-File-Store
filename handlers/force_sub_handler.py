@@ -8,7 +8,7 @@ from configs import Config
 from pyrogram import Client
 from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
-
+from handlers.helpers import str_to_b64
 
 async def get_invite_link(bot: Client, chat_id: Union[str, int]):
     try:
@@ -53,7 +53,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
                         InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
                     ],
                     [
-                        InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshForceSub")
+                        InlineKeyboardButton("🔄 Refresh 🔄", url = "https://telegram.me/{Config.BOT_USERNAME}?start=Sk-Network_{str_to_b64(file_er_id)}")
                     ]
                 ]
             )
