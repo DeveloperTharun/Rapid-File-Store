@@ -6,7 +6,7 @@ import os
 class Config(object):
 	API_ID = 8754146
 	API_HASH = "8b56a6989f6d04f6f4fe78133ade02fd"
-	BOT_TOKEN = "6359217330:AAGgexnvyqO0CN_XWQ1Ku__vhp0ZDRN0eJY"
+	BOT_TOKEN = "6598285778:AAGKuiO3eKBYAiiFNQK6zuZNhd_q9eiNS6w"
 	BOT_USERNAME = "Ultra_File_Store_Bot"
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001509431270"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5669934860"))
