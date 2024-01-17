@@ -4,7 +4,7 @@ import os
 
 
 class Config(object):
-	API_ID = 8754146
+	API_ID = 8754146 
 	API_HASH = "8b56a6989f6d04f6f4fe78133ade02fd"
 	BOT_TOKEN = "6410876484:AAEOm90e4BPI6H3327qMbsNozcobgn_Qd1Y"
 	BOT_USERNAME = "Rapid_File_Store_Bot"
