@@ -1,4 +1,4 @@
-git+https://github.com/KurimuzonAkuma/pyrogram.git
+git+https://github.com/TGExplore/pyrogram.git
 TgCrypto
 motor
 aiofiles
